@@ -1,7 +1,8 @@
 #ifndef Max7312_h
 #define Max7312_h
 
-// Chip Addresses
+// Chip Addresses, it is default addres and can be changed 
+// with AD0, AD1 and AD2 pins same as i2c EEPROM
 #define MAX7312_ADDRESS 0x20
 
 //Register address	
